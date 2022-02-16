@@ -10,8 +10,7 @@
 
 ## Preparation
 
-1. [Fork and clone](https://git.generalassemb.ly/ga-wdi-boston/meta/wiki/ForkAndClone)
-    this repository.
+1. Fork and clone this repository.
 1. Create a new branch, `training`, for your work.
 1. Checkout to the `training` branch.
 
